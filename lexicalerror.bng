@@ -1,0 +1,4 @@
+# This file is missing a closing brace — causes a parse error
+পূর্ণসংখ্যা ক = ১০;
+যদি (ক > ৫) {
+    দেখান(ক);
