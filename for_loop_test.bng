@@ -1,0 +1,17 @@
+# For loop feature test
+# Prints numbers 1 to 5
+প্রতিটি (ই = ১ থেকে ৫) {
+    দেখান(ই);
+}
+
+# Sum numbers 1 to 10 using a for loop
+পূর্ণসংখ্যা যোগ = ০;
+প্রতিটি (সংখ্যা = ১ থেকে ১০) {
+    যোগ = যোগ + সংখ্যা;
+}
+দেখান(যোগ);
+
+# Count up by 2 (step example)
+প্রতিটি (জ = ২ থেকে ১০ ধাপ ২) {
+    দেখান(জ);
+}
